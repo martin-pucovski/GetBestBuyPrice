@@ -7,7 +7,7 @@ Using GET method get a json of the item and extract the price.
 """
 
 __author__ = "Martin Pucovski"
-__copyright__ = "Copyright 2007, The Cogent Project"
+__copyright__ = "Copyright 2022, martinautomates.com"
 __credits__ = ["Martin Pucovski"]
 __license__ = "GPL"
 __version__ = "1.0.0"
